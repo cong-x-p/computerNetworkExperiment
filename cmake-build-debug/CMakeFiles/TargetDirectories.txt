@@ -1,0 +1,3 @@
+/home/cxp/CLionProjects/computerNetworkExp/cmake-build-debug/CMakeFiles/computerNetworkExp.dir
+/home/cxp/CLionProjects/computerNetworkExp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cxp/CLionProjects/computerNetworkExp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
